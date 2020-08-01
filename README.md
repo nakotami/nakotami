@@ -14,6 +14,8 @@ I'm a freelance software developer and designer from London. Not really looking 
 - ⚡ Fun fact: Monsters thrive off of discarded post-it notes
 
 # Contact Info
-[Twitter:](https://www.twitter.com/nakotami)
-[Website:](https://www.doublefold.com)
+[Twitter](https://www.twitter.com/nakotami)
+
+[Website](https://www.doublefold.com)
+
 Email: personal(at)doublefold.co.uk
