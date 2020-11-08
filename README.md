@@ -3,7 +3,7 @@ I'm a freelance software developer and designer from London. Not really looking 
 
 #### More info
 - 🔭 I’m currently working on Sparrow _(top secret)_
-- 🌱 I’m currently learning C _(you never stop learning)_
+- 🌱 I’m currently learning Rust _(you never stop learning)_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Monsters thrive off of discarded post-it notes
 
