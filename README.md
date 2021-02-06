@@ -12,6 +12,6 @@ Here are a couple images of things that I have made that may entice you:
 #### Graphic/Product Design
 ![](https://i.imgur.com/F9f9Ujy.jpg "card")
 
-#### Game Design
+#### Game Development
 ![Multiplayer Game](https://pbs.twimg.com/media/EUgGOn3WsAIJTtN?format=jpg&name=4096x4096 "tggfd")
 
