@@ -15,10 +15,3 @@ Here are a couple images of things that I have made that may entice you:
 #### Game Design
 ![Multiplayer Game](https://pbs.twimg.com/media/EUgGOn3WsAIJTtN?format=jpg&name=4096x4096 "tggfd")
 
-
-#### Contact Info
-[Twitter](https://www.twitter.com/nakotami)
-
-[Website](https://www.doublefold.co.uk)
-
-Email: personal(at)doublefold.co.uk
