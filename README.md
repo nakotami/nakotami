@@ -1,3 +1,3 @@
 - chief procrastinator
-- premed dumbass
+- biochem dumbass
 - third thing
